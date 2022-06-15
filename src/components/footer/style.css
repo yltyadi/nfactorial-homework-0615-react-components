@@ -1,0 +1,14 @@
+.footer-component {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h2 {
+    margin-left: 20px;
+    color: white;
+}
+
+a {
+    color: white;
+}
